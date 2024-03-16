@@ -1,4 +1,4 @@
-# <p align="center"><u>Image-Processing-Project-Capture-Reduce-Detect-with-Sobel</u></p>
+# <p align="center"><u>Image Processing Project: Capture, Reduce, Detect with-Sobel</u></p>
 This mini project introduces fundamental image processing techniques using C++, focusing on image capture, resolution reduction, and edge detection. Through experimentation and analysis, I gained proficiency in manipulating and analyzing digital images, laying the groundwork for further exploration in robotics and computer vision.
 
 ## <p align="center"><u>Introduction and Description</u></p>
