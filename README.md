@@ -1,5 +1,5 @@
 # <p align="center"><u>Image-Processing-Project-Capture-Reduce-Detect-with-Sobel</u></p>
-This mini project introduces fundamental image processing techniques using C++, focusing on image capture, resolution reduction, and edge detection. Through experimentation and analysis, students gain proficiency in manipulating and analyzing digital images, laying the groundwork for further exploration in robotics and computer vision.
+This mini project introduces fundamental image processing techniques using C++, focusing on image capture, resolution reduction, and edge detection. Through experimentation and analysis, I gained proficiency in manipulating and analyzing digital images, laying the groundwork for further exploration in robotics and computer vision.
 
 ## <p align="center"><u>Introduction and Description</u></p>
 The primary purpose of this mini project is to familiarize students with fundamental image processing techniques and algorithms, empowering them to manipulate and analyze digital images effectively using C++. By the end of the mini project, we have gained proficiency in capturing, processing, and interpreting visual information, laying a solid foundation for further exploration in advanced image processing topics. 
